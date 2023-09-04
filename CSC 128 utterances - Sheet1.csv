@@ -1,0 +1,20 @@
+utterances,pos_neg,pos_neg_neutral
+What kind of coffee to you have?,positive,neutral
+Are you open on holidays?,positive,neutral
+What type of food do you serve?,positive,neutral
+When do you close?,positive,neutral
+do you have a bathroom?,positive,neutral
+What are your prices?,positive,neutral
+do you have vegan options?,positive,neutral
+you're establishment is dirty.,negitive,negitive
+you have bad coffee.,negitive,negitive
+your food made me sick.,negitive,negitive
+I got bad service.,negitive,negitive
+I did not get my correct order.,negitive,negitive
+you have a good strore.,positive,positive
+I enjoyed the food here.,positive,positive
+this is my favorite shop.,positive,positive
+you have great parking.,positive,positive
+do you allow animals?,positive,neutral
+what type of milk do you have?,positive,neutral
+is your coffee fresh?,positive,neutral
